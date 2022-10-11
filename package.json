@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/BJ2044/mongodb-first/issues"
   },
-  "homepage": "https://github.com/BJ2044/mongodb-first#readme"
+  "homepage": "https://github.com/BJ2044/mongodb-first#readme",
+  "dependencies": {
+    "mongodb": "^4.10.0"
+  }
 }
